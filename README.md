@@ -1,8 +1,21 @@
 <h1 align="center">Olá, Mundo! Eu sou o Cauan! 👋</h1>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CauanLagrotta&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=CauanLagrotta&show_icons=true&theme=dark" alt="GitHub stats" />
+    </td>
+    <td style="padding-left: 20px;">
+      <a href="https://github.com/CauanLagrotta/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&layout=compact&show_icons=true&theme=dark" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <h1>Tecnologias: </h1>
 <p align="left">
