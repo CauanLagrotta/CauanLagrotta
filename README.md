@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Mundo! Eu sou o Cauan! 👋</h1>
+<h1 align="center">Bem vindo(a) ao meu perfil! 👋</h1>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
