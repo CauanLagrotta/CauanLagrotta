@@ -2,6 +2,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CauanLagrotta&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&layout=compact&show_icons=true&theme=buefy)](https://github.com/rodolfomori/github-readme-stats)
 
 <h1>Tecnologias: </h1>
 <p align="left">
