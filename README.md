@@ -26,4 +26,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 </p>
 
-<img src="github.gif" width=200 height=200>
