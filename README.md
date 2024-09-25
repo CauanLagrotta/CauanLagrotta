@@ -46,7 +46,7 @@ Atualmente, estou buscando oportunidades de estágio para ganhar experiência e 
 
 ## 📫 Como me encontrar:
 <p align="left">
-  <a href="www.linkedin.com/in/cauan-silva-lagrotta-b94725220">
+  <a href="https://www.linkedin.com/in/cauan-silva-lagrotta-b94725220/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/CauanLagrotta">
