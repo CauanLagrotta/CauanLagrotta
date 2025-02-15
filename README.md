@@ -43,7 +43,6 @@ Atualmente, estou buscando oportunidades de estágio para ganhar experiência e 
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="Styled-components" width="40" height="40"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
 </div>
 
 ###
