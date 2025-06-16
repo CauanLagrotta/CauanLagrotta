@@ -48,6 +48,12 @@ Atualmente, estou buscando oportunidades de estágio para ganhar experiência e 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40" alt="swagger logo"/>
+  <img width="12"/>
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jest_icon_130514.png" height="40" alt="jest logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="vitest logo"/>
 </div>
 
 ###
