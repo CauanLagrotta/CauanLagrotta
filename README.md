@@ -54,6 +54,8 @@ Atualmente, estou buscando oportunidades de estágio para ganhar experiência e 
   <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jest_icon_130514.png" height="40" alt="jest logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="vitest logo"/>
+  <img width="12"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="40" alt="nest logo" />
 </div>
 
 ###
