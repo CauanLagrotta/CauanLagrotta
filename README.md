@@ -7,7 +7,7 @@
 </p>
 
 ## 🧑‍💻 Sobre mim
-Olá! Me chamo **Cauan Silva Lagrotta**, tenho 18 anos e estou estudando Desenvolvimento Web Fullstack. Tenho experiência em projetos usando **HTML, CSS, JavaScript, React, Node.js, MySQL** e muito mais. Estou em constante aprendizado e desenvolvo projetos para colocar em prática tudo o que aprendo.
+Olá! Me chamo **Cauan Silva Lagrotta**, tenho 19 anos e estou estudando Desenvolvimento Web Fullstack. Tenho experiência em projetos usando **HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Docker** e muito mais. Estou em constante aprendizado e desenvolvo projetos para colocar em prática tudo o que aprendo.
 
 Atualmente, estou buscando oportunidades de estágio para ganhar experiência e contribuir com o desenvolvimento de soluções inovadoras.
 
