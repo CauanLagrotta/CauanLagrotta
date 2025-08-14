@@ -66,9 +66,20 @@ Atualmente, estou buscando oportunidades de estágio para ganhar experiência e 
 
 ## 📊 Estatísticas do GitHub
 
-   <div>
-      <img src="https://github-readme-stats.vercel.app/api?username=CauanLagrotta&show_icons=true&theme=dark" alt="GitHub stats" />
-   </div>
+   <table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanLagrotta&theme=react&hide_border=true" alt="GitHub streak"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
