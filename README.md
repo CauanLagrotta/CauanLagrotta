@@ -65,22 +65,15 @@ Atualmente, estou buscando oportunidades de estágio para ganhar experiência e 
 ---
 
 ## 📊 Estatísticas do GitHub
-
-   <table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanLagrotta&theme=react&hide_border=true" alt="GitHub streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top Langs"/>
-    </td>
-  </tr>
-</table>
-
-
+  <div align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+    <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanLagrotta&theme=react&hide_border=true" alt="GitHub streak"/>
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top" />
+      
+ </div>
+      
 ---
 
 ## 📫 Como me encontrar:
@@ -92,6 +85,7 @@ Atualmente, estou buscando oportunidades de estágio para ganhar experiência e 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
