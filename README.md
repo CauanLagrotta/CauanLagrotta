@@ -7,10 +7,15 @@
 </p>
 
 ## 🧑‍💻 Sobre mim
-Olá! Me chamo **Cauan Silva Lagrotta**, tenho 19 anos e estou estudando Desenvolvimento Web Fullstack. Tenho experiência em projetos usando **HTML, CSS, JavaScript, React, Node.js, PostgreSQL, Docker** e muito mais. Estou em constante aprendizado e desenvolvo projetos para colocar em prática tudo o que aprendo.
+Desenvolvedor Web Fullstack | Apaixonado por tecnologia e inovação digital
 
-Atualmente, estou buscando oportunidades de estágio para ganhar experiência e contribuir com o desenvolvimento de soluções inovadoras.
+Olá, Mundo! Eu sou o Cauan, tenho 19 anos e atualmente atuo como Desenvolvedor Web Fullstack na P4F. Sou formado pela Codi Academy e curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
+Minha experiência inclui a criação de soluções modernas e eficientes para a web, passando por front-end, back-end e banco de dados. Tenho como motivação a curiosidade, a vontade constante de aprender e a satisfação em resolver problemas de forma criativa.
+
+Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que gerem impacto real e positivo no universo digital. Estou pronto para novos desafios e para continuar crescendo profissionalmente.
+
+**[Confira meu portfólio](https://cauanlagrotta-portfolio.vercel.app)**
 ---
 
 ## 🚀 Tecnologias que utilizo:
