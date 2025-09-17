@@ -15,7 +15,12 @@ Minha experiência inclui a criação de soluções modernas e eficientes para a
 
 Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que gerem impacto real e positivo no universo digital. Estou pronto para novos desafios e para continuar crescendo profissionalmente.
 
-**[Confira meu portfólio](https://cauanlagrotta-portfolio.vercel.app)**
+<p align="center">
+  <a href="https://cauanlagrotta-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Confira%20meu%20portfólio-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
+
 ---
 
 ## 🚀 Tecnologias que utilizo:
