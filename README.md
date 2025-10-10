@@ -24,53 +24,55 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
 ---
 
 ## 🚀 Tecnologias que utilizo:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40em" width="40em" alt="javascript logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40em" width="40em" alt="typescript logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40em" width="40em" alt="react logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40em" width="40em" alt="html5 logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em" width="40em" alt="css3 logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40em" width="40em" alt="tailwindcss logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40em" width="40em" alt="nodejs logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40em" width="40em" alt="express logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40em" width="40em" alt="mysql logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40em" width="40em" alt="sqlite logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40em" width="40em" alt="git logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40em" width="40em" alt="npm logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40em" width="40em" alt="yarn logo"  />
-  <img width="12em" />
-  <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" height="40em" width="40em" alt="Styled-components" />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40em" width="40em" alt="prisma logo"  />
-  <img width="12em" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40em" width="40em" alt="docker logo"  />
-  <img width="12em"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40em" width="40em" alt="sass logo"  />
-  <img width="12em"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40em" width="40em" alt="swagger logo"/>
-  <img width="12em"/>
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jest_icon_130514.png" height="40em" width="40em" alt="jest logo"/>
-  <img width="12em"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40em" width="40em" alt="vitest logo"/>
-  <img width="12em"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="40em" width="40em" alt="nest logo" />
-  <img width="12em"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40em" width="40em" alt="postgres logo"
+### 🧠 Linguagens
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40em" width="40em" alt="javascript logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40em" width="40em" alt="typescript logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40em" width="40em" alt="html5 logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em" width="40em" alt="css3 logo"/> 
 </div>
 
-###
+### ⚙️ Frameworks e Bibliotecas
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40em" width="40em" alt="react logo"/>
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40em" width="40em" alt="express logo"/> 
+  <img width="12em"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="40em" width="40em" alt="nestjs logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40em" width="40em" alt="prisma logo"/> 
+</div>
+
+### 🗄️ Bancos de Dados
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40em" width="40em" alt="mysql logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40em" width="40em" alt="sqlite logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40em" width="40em" alt="postgresql logo"/> 
+</div>
+
+### 📦 Gerenciadores de Pacotes
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40em" width="40em" alt="npm logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40em" width="40em" alt="yarn logo"/> 
+</div>
+
+### 🎨 Ferramentas de Estilo
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40em" width="40em" alt="tailwindcss logo"/>
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40em" width="40em" alt="sass logo"/>
+  <img width="12em"/> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" height="40em" width="40em" alt="styled-components logo"/> 
+</div>
+
+### 🧪 Testes e Documentação
+<div align="left"> 
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jest_icon_130514.png" height="40em" width="40em" alt="jest logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40em" width="40em" alt="vitest logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40em" width="40em" alt="swagger logo"/>
+</div>
+
+### 🛠️ Outras Ferramentas
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40em" width="40em" alt="git logo"/>
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40em" width="40em" alt="nodejs logo"/>
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40em" width="40em" alt="docker logo"/> 
+</div>
 
 ---
 
