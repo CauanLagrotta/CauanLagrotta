@@ -26,13 +26,14 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
 ## 🚀 Tecnologias que utilizo:
 <div align="center">
   
-  ### 🧠 Linguagens
-  <div align="center"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40em" width="40em" alt="javascript logo"/> 
-    <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40em" width="40em" alt="typescript logo"/> 
-    <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40em" width="40em" alt="html5 logo"/> 
-    <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em" width="40em" alt="css3 logo"/> 
-  </div>
+### 🧠 Linguagens
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40em" width="40em" alt="javascript logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40em" width="40em" alt="typescript logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40em" width="40em" alt="html5 logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40em" width="40em" alt="css3 logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40em" width="40em" alt="java logo"/> 
+</div>
 
 ### ⚙️ Frameworks e Bibliotecas
 <div align="center"> 
@@ -40,6 +41,7 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
   <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40em" width="40em" alt="express logo"/> 
   <img width="12em"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="40em" width="40em" alt="nestjs logo"/> 
   <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40em" width="40em" alt="prisma logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40em" width="40em" alt="spring logo"/> 
 </div>
 
 ### 🗄️ Bancos de Dados
@@ -53,6 +55,7 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40em" width="40em" alt="npm logo"/> 
   <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40em" width="40em" alt="yarn logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40em" width="40em" alt="maven logo"/> 
 </div>
 
 ### 🎨 Ferramentas de Estilo
@@ -77,17 +80,17 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
 </div>
 
 </div>
+
 ---
 
 ## 📊 Estatísticas do GitHub
-  <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanLagrotta&theme=react&hide_border=true" alt="GitHub streak"/>
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top" />
-      
- </div>
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CauanLagrotta&theme=react&hide_border=true" alt="GitHub streak"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CauanLagrotta&theme=react&show_icons=true&hide_border=true&layout=compact" alt="Top" />
+</div>
       
 ---
 
@@ -101,6 +104,4 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
   </a>
 </p>
 
-
 ---
-
