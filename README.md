@@ -40,22 +40,25 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40em" width="40em" alt="react logo"/>
   <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40em" width="40em" alt="express logo"/> 
   <img width="12em"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" height="40em" width="40em" alt="nestjs logo"/> 
-  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40em" width="40em" alt="prisma logo"/> 
   <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40em" width="40em" alt="spring logo"/> 
 </div>
 
 ### 🗄️ Bancos de Dados
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40em" width="40em" alt="mysql logo"/> 
-  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40em" width="40em" alt="sqlite logo"/> 
   <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40em" width="40em" alt="postgresql logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" height="40em" width="40em" alt="dynamodb logo"/> 
 </div>
 
-### 📦 Gerenciadores de Pacotes
+### ☁️ Cloud
 <div align="center"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40em" width="40em" alt="npm logo"/> 
-  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40em" width="40em" alt="yarn logo"/> 
-  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="40em" width="40em" alt="maven logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40em" width="40em" alt="aws logo"/> 
+</div>
+
+### 📨 Mensageria
+<div align="center"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40em" width="40em" alt="kafka logo"/> 
+  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="40em" width="40em" alt="rabbitmq logo"/> 
 </div>
 
 ### 🎨 Ferramentas de Estilo
@@ -63,13 +66,6 @@ Hoje, busco sempre evoluir minhas habilidades e contribuir para projetos que ger
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40em" width="40em" alt="tailwindcss logo"/>
   <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40em" width="40em" alt="sass logo"/>
   <img width="12em"/> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" height="40em" width="40em" alt="styled-components logo"/> 
-</div>
-
-### 🧪 Testes e Documentação
-<div align="center"> 
-  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_jest_icon_130514.png" height="40em" width="40em" alt="jest logo"/> 
-  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40em" width="40em" alt="vitest logo"/> 
-  <img width="12em"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="40em" width="40em" alt="swagger logo"/>
 </div>
 
 ### 🛠️ Outras Ferramentas
