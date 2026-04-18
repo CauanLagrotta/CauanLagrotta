@@ -7,7 +7,7 @@
 </p>
 
 ## 🧑‍💻 Sobre mim
-Desenvolvedor Web Fullstack | Apaixonado por tecnologia e inovação digital
+Desenvolvedor Web Backend | Apaixonado por tecnologia e inovação digital
 
 Olá, Mundo! Eu sou o Cauan, tenho 19 anos e atualmente atuo como Desenvolvedor Web Backend. Sou formado pela Codi Academy e curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
