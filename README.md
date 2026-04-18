@@ -2,7 +2,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="center">
-  <b>Desenvolvedor Web Fullstack em formação, apaixonado por tecnologia e inovação!</b><br>
+  <b>Desenvolvedor Web Backend, apaixonado por tecnologia e inovação!</b><br>
   Sempre em busca de novos desafios e oportunidades de aprendizado.
 </p>
 
