@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre mim
 Desenvolvedor Web Fullstack | Apaixonado por tecnologia e inovação digital
 
-Olá, Mundo! Eu sou o Cauan, tenho 19 anos e atualmente atuo como Desenvolvedor Web Backend na P4F. Sou formado pela Codi Academy e curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
+Olá, Mundo! Eu sou o Cauan, tenho 19 anos e atualmente atuo como Desenvolvedor Web Backend. Sou formado pela Codi Academy e curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
 Minha experiência inclui a criação de soluções modernas e eficientes para a web, passando por front-end, back-end e banco de dados. Tenho como motivação a curiosidade, a vontade constante de aprender e a satisfação em resolver problemas de forma criativa.
 
