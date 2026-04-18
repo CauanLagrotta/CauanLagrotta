@@ -2,12 +2,12 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <p align="center">
-  <b>Desenvolvedor Web Backend, apaixonado por tecnologia e inovação!</b><br>
+  <b>Desenvolvedor Web Fullstack, apaixonado por tecnologia e inovação!</b><br>
   Sempre em busca de novos desafios e oportunidades de aprendizado.
 </p>
 
 ## 🧑‍💻 Sobre mim
-Desenvolvedor Web Backend | Apaixonado por tecnologia e inovação digital
+Desenvolvedor Web Fullstack | Apaixonado por tecnologia e inovação digital
 
 Olá, Mundo! Eu sou o Cauan, tenho 19 anos e atualmente atuo como Desenvolvedor Web Backend. Sou formado pela Codi Academy e curso Análise e Desenvolvimento de Sistemas na Faculdade Descomplica.
 
